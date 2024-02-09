@@ -6,4 +6,4 @@ KT Session 3:
 
 3. Softphone
 
-URL: https://telecmitech-my.sharepoint.com/:v:/g/personal/prasath_telecmitech_onmicrosoft_com/EajGlqqK6CdLhESEVEdFAtEBDaq08QANb5lbJhxotQLpfA?e=mYJEnq
+URL: https://kt-videos.sgp1.digitaloceanspaces.com/Dashboard%20KT%20Session%203-20230818_111533-Meeting%20Recording.mp4

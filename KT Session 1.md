@@ -9,4 +9,4 @@ KT Session 1
 4. History.
 
 
-URL: https://telecmitech-my.sharepoint.com/:v:/g/personal/prasath_telecmitech_onmicrosoft_com/Ef7gBdgjZtROtA_upMwmRF4B8MIBNilvhmaQ_JvRA3B0mw?e=vZ9PEd
+URL: https://kt-videos.sgp1.digitaloceanspaces.com/Dashboard%20KT%20Session%201-20230731_154452-Meeting%20Recording.mp4

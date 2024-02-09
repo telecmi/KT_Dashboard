@@ -4,4 +4,4 @@ KT Session 2:
 
 2. Call Flow
 
-URL: https://telecmitech-my.sharepoint.com/:v:/g/personal/prasath_telecmitech_onmicrosoft_com/EXcgLjLT_CVDmMl-UChR2HIBCqaJqipUbWaK_sz4E2Y5xQ?e=6dI1Cb
+URL: https://kt-videos.sgp1.digitaloceanspaces.com/Dashboard%20KT%20Session%202-20230802_100231-Meeting%20Recording.mp4
